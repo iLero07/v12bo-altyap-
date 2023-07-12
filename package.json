@@ -1,0 +1,14 @@
+{
+  "name": "almazrah",
+  "version": "1.0.0",
+  "description": "Al Mazrah Discord Botu",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.0"
+  }
+}
